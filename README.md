@@ -9,10 +9,6 @@
 ### Contact Information 
 [![Discord](https://img.shields.io/badge/Discord-Script.py%237614-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/598287962576519179" />
-</p>
-
 ### GitHub Stats
 [![Exceptions's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exceptions&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Exceptions) [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Exceptions&theme=react&border=ff9c19&hide_border=true)](https://github.com/Exceptions)
 
