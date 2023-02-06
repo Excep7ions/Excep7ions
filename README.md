@@ -2,7 +2,7 @@
   
 <h1 align="center"> 
   <a href="https://discord.gg/6aqpTW2pam">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=++Hi+there%2C+I'm+Excep7ions+%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&lines=++Hi+there%2C+I'm+Excep7ions">
   </a>
 </h1>
 
